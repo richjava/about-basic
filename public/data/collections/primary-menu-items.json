@@ -1,0 +1,10 @@
+{
+  "data": [
+    {
+      "slug": "about",
+      "_type": "primaryMenuItem",
+      "label": "About",
+      "url": "/about"
+    }
+  ]
+}

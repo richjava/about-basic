@@ -1,0 +1,15 @@
+{
+  "plugin": {
+    "namespace": "richjava_about-basic",
+    "title": "About",
+    "description": "About plugin with basic Tailwind styling.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/richjava/blog/public/images/theme/plugin.png",
+    "demoUrl": "https://builtjs-plugin-about.vercel.app",
+    "mainModule": {
+      "name": "about"
+    },
+    "config": {
+      "dependencies": ["@portabletext/react"]
+    }
+  }
+}

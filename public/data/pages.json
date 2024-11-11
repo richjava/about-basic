@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "name": "home",
+      "title": "Home"
+    },
+    { "name": "about" },
+    {
+      "name": "authorArticle",
+      "contentType": {
+        "name": "author",
+        "config": { "populate": [{ "name": "profile" }] }
+      }
+    }
+  ]
+}

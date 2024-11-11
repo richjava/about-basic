@@ -1,0 +1,12 @@
+{
+  "modules": [
+    {
+      "title": "About",
+      "description": "Provides information related to the organisation",
+      "name": "about",
+      "modulePages": [{ "name": "aboutBase" }, { "name": "homeAboutTeaser" }],
+      "required": false,
+      "modules": [{ "name": "team" }]
+    }
+  ]
+}
