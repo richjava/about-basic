@@ -149,11 +149,11 @@
       "name": "aboutSeo",
       "title": "About SEO",
       "data": {
-        "pageTitle": "About | About Basic Built.JS Theme",
-        "description": "About page for a site built with the About Basic Built.JS Theme.",
+        "pageTitle": "About",
+        "description": "About page.",
         "shareImage": {
           "url": "https://res.cloudinary.com/dn7feeelf/image/upload/v1725878797/image_ldyekv.png",
-          "path": "/images/plugins/richjava_about-basic/image.png",
+          "path": "/images/image.png",
           "width": 1280,
           "height": 768,
           "type": "image",
@@ -240,24 +240,13 @@
         "blurb": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "image": {
           "url": "https://res.cloudinary.com/dn7feeelf/image/upload/v1725878796/image-square_khojsy.png",
-          "path": "/images/plugins/richjava_about-basic/image-square.png",
+          "path": "/images/image-square.png",
           "width": 1000,
           "height": 1000,
           "type": "image",
           "attributeName": "image"
         },
-        "buttonLinks": [
-          {
-            "url": "/about",
-            "label": "Button",
-            "type": "primary"
-          },
-          {
-            "url": "/services",
-            "label": "Button",
-            "type": "secondary"
-          }
-        ]
+        "buttonLinks": []
       },
       "templates": [
         "cover1",
@@ -681,7 +670,7 @@
         "position": "Writer",
         "profileImage": {
           "url": "https://res.cloudinary.com/dn7feeelf/image/upload/v1725878797/image_ldyekv.png",
-          "path": "/images/plugins/richjava_about-basic/image.png",
+          "path": "/images/image.png",
           "width": 48,
           "height": 48,
           "type": "image",
@@ -711,7 +700,7 @@
         "position": "Writer",
         "profileImage": {
           "url": "https://res.cloudinary.com/dn7feeelf/image/upload/v1725878797/image_ldyekv.png",
-          "path": "/images/plugins/richjava_about-basic/image.png",
+          "path": "/images/image.png",
           "width": 48,
           "height": 48,
           "type": "image",
@@ -741,7 +730,7 @@
         "position": "Writer",
         "profileImage": {
           "url": "https://res.cloudinary.com/dn7feeelf/image/upload/v1725878797/image_ldyekv.png",
-          "path": "/images/plugins/richjava_about-basic/image.png",
+          "path": "/images/image.png",
           "width": 48,
           "height": 48,
           "type": "image",
