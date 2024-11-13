@@ -10,7 +10,7 @@
       "name": "about"
     },
     "config": {
-      "dependencies": ["@portabletext/react"]
+      "dependencies": []
     }
   }
 }
