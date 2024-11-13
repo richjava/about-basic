@@ -4,7 +4,7 @@
       "title": "About",
       "description": "Provides information related to the organisation",
       "name": "about",
-      "modulePages": [{ "name": "aboutBase" }, { "name": "homeAboutTeaser" }],
+      "modulePages": [{ "name": "aboutBase" }, { "name": "homeAboutTeaser" }, { "name": "aboutTeam" }, { "name": "authorArticle" }],
       "required": false,
       "modules": [{ "name": "team" }]
     }
