@@ -1,39 +1,17 @@
 {
   "pages": [
     {
-      "name": "home",
-      "title": "Home",
-      "demoSections": [
-        {
-          "name": "aboutTeaser"
-        }
-      ]
+      "name": "home"
     },
     {
-      "name": "about",
-      "demoSections": [
-        {
-          "name": "aboutSeo"
-        },
-        {
-          "name": "aboutLanding"
-        },
-        {
-          "name": "team"
-        }
-      ]
+      "name": "about"
     },
     {
       "name": "authorArticle",
       "contentType": {
         "name": "author",
         "config": { "populate": [{ "name": "profile" }] }
-      },
-      "demoSections": [
-        {
-          "name": "authorArticleLanding"
-        }
-      ]
+      }
     }
   ]
 }

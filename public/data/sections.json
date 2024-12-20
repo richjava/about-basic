@@ -36,8 +36,7 @@
           "path": "/images/image.png",
           "width": 1280,
           "height": 768,
-          "type": "image",
-          "attributeName": "shareImage"
+          "type": "image"
         },
         "twitterCardType": "summary"
       },
@@ -81,7 +80,7 @@
     {
       "name": "aboutLanding",
       "title": "About Landing",
-      "description": "The about page landing area, conveying convey trust and relatability.",
+      "description": "The about page landing area, conveying trust and relatability.",
       "data": {
         "preheading": { "text": "Preheading", "type": "line" },
         "heading": "Lorem ipsum dolor sit amet",
@@ -91,8 +90,7 @@
           "path": "/images/image-square.png",
           "width": 1000,
           "height": 1000,
-          "type": "image",
-          "attributeName": "image"
+          "type": "image"
         },
         "buttonLinks": []
       },

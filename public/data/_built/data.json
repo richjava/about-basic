@@ -75,7 +75,6 @@
   "pages": [
     {
       "name": "home",
-      "title": "Home",
       "demoSections": [
         {
           "name": "aboutTeaser"
@@ -156,8 +155,7 @@
           "path": "/images/image.png",
           "width": 1280,
           "height": 768,
-          "type": "image",
-          "attributeName": "shareImage"
+          "type": "image"
         },
         "twitterCardType": "summary"
       },
@@ -230,7 +228,7 @@
     {
       "name": "aboutLanding",
       "title": "About Landing",
-      "description": "The about page landing area, conveying convey trust and relatability.",
+      "description": "The about page landing area, conveying trust and relatability.",
       "data": {
         "preheading": {
           "text": "Preheading",
@@ -243,8 +241,7 @@
           "path": "/images/image-square.png",
           "width": 1000,
           "height": 1000,
-          "type": "image",
-          "attributeName": "image"
+          "type": "image"
         },
         "buttonLinks": []
       },
@@ -607,14 +604,6 @@
       }
     ]
   },
-  "global": {
-    "name": "About",
-    "logo": {
-      "path": "/images/theme/builtjs.svg",
-      "width": 45,
-      "height": 45
-    }
-  },
   "collections": {
     "authors": [
       {
@@ -674,8 +663,7 @@
           "width": 48,
           "height": 48,
           "type": "image",
-          "_key": "8oRJHzbD0",
-          "attributeName": "profileImage"
+          "_key": "8oRJHzbD0"
         }
       },
       {
@@ -704,8 +692,7 @@
           "width": 48,
           "height": 48,
           "type": "image",
-          "_key": "18KdVROXcA",
-          "attributeName": "profileImage"
+          "_key": "18KdVROXcA"
         }
       },
       {
@@ -734,11 +721,19 @@
           "width": 48,
           "height": 48,
           "type": "image",
-          "_key": "TlRmoABfA9",
-          "attributeName": "profileImage"
+          "_key": "TlRmoABfA9"
         }
       }
     ]
   },
-  "plugins": []
+  "plugins": [],
+  "global": {
+    "name": "About Basic",
+    "logo": {
+      "url": "https://res.cloudinary.com/dn7feeelf/image/upload/v1725870579/builtjs_bert2m.svg",
+      "path": "/images/builtjs.svg",
+      "width": 45,
+      "height": 45
+    }
+  }
 }
