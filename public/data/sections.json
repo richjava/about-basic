@@ -29,8 +29,8 @@
       "name": "aboutSeo",
       "title": "About SEO",
       "data": {
-        "pageTitle": "About",
-        "description": "About page.",
+        "pageTitle": "About | About Basic Built.js Plugin",
+        "description": "About page for About Basic Built.js Plugin.",
         "shareImage": {
           "url": "https://res.cloudinary.com/dn7feeelf/image/upload/v1725878797/image_ldyekv.png",
           "path": "/images/image.png",
