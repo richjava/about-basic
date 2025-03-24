@@ -73,7 +73,7 @@
       "defaultTemplate": { "name": "profileCards1" },
       "collections": {
         "author": {
-          "config": { "limit": 3, "populate": [{ "name": "profile" }] }
+          "config": { "limit": 3, "populate": [{ "name": "profile", "type": "profile" }] }
         }
       }
     },

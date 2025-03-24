@@ -10,7 +10,7 @@
       "name": "authorArticle",
       "contentType": {
         "name": "author",
-        "config": { "populate": [{ "name": "profile" }] }
+        "config": { "populate": [{ "name": "profile", "type": "profile" }] }
       }
     }
   ]

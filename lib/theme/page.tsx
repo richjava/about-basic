@@ -27,12 +27,10 @@ const Page = ({config}: any) => {
   }, [slug]);
 
   async function init() {
-    console.log({config})
     if (!config) {
       return;
     }
     let page: any = await transformPage(config, params);
-    console.log({page})
     if (!page) {
       return;
     }
