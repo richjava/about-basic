@@ -173,6 +173,7 @@
       "name": "aboutTeaser",
       "title": "Home About Teaser",
       "description": "A small teaser about the company.",
+      "imageUrl": "https://res.cloudinary.com/dn7feeelf/image/upload/v1725878843/block1_smb2xd.png",
       "data": {
         "preheading": {
           "text": "Preheading",
@@ -203,6 +204,7 @@
       "name": "team",
       "title": "Team",
       "description": "An informational section about the people in the company.",
+      "imageUrl": "https://res.cloudinary.com/dn7feeelf/image/upload/v1725878880/profile-cards1_pifmdj.png",
       "data": {
         "heading": "Lorem ipsum dolor sit amet"
       },
@@ -231,6 +233,7 @@
       "name": "aboutLanding",
       "title": "About Landing",
       "description": "The about page landing area, conveying trust and relatability.",
+      "imageUrl": "https://res.cloudinary.com/dn7feeelf/image/upload/v1725878866/cover2_kauqyl.png",
       "data": {
         "preheading": {
           "text": "Preheading",
@@ -262,6 +265,7 @@
       "name": "aboutText",
       "title": "About Text",
       "description": "An informational section about the company.",
+      "imageUrl": "https://res.cloudinary.com/dn7feeelf/image/upload/v1725878843/block1_smb2xd.png",
       "data": {
         "heading": "Lorem ipsum dolor sit amet",
         "blurb1": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident.",
